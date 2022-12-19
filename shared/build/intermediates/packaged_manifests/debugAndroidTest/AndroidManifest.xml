@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cat.alexgluque.sqliteerror.test" >
+
+    <uses-sdk
+        android:minSdkVersion="33"
+        android:targetSdkVersion="33" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for cat.alexgluque.sqliteerror.test"
+        android:targetPackage="cat.alexgluque.sqliteerror.test" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="false" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

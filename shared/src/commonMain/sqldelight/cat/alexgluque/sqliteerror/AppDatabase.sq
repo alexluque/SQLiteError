@@ -1,0 +1,14 @@
+CREATE TABLE Persons (
+    id INTEGER NOT NULL PRIMARY KEY,
+    age INTEGER NOT NULL,
+    name TEXT NOT NULL
+);
+
+getAll:
+SELECT * FROM Persons;
+
+insert:
+INSERT INTO Persons (age, name) VALUES (?, ?);
+
+updateAge:
+REPLACE INTO Persons VALUES ?;

@@ -1,0 +1,12 @@
+cat.alexgluque.sqliteerror.shared-sqlite-framework-2.2.0-0 /Users/alex/.gradle/caches/transforms-3/44595a4821db60ce311462dcea5d5ac9/transformed/sqlite-framework-2.2.0/res
+cat.alexgluque.sqliteerror.shared-sqlite-2.2.0-1 /Users/alex/.gradle/caches/transforms-3/9a3552887f402640ca6245e32e2ef8cd/transformed/sqlite-2.2.0/res
+cat.alexgluque.sqliteerror.shared-pngs-2 /Users/alex/Programacio/SQLiteError/shared/build/generated/res/pngs/release
+cat.alexgluque.sqliteerror.shared-resValues-3 /Users/alex/Programacio/SQLiteError/shared/build/generated/res/resValues/release
+cat.alexgluque.sqliteerror.shared-rs-4 /Users/alex/Programacio/SQLiteError/shared/build/generated/res/rs/release
+cat.alexgluque.sqliteerror.shared-mergeReleaseResources-5 /Users/alex/Programacio/SQLiteError/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+cat.alexgluque.sqliteerror.shared-mergeReleaseResources-6 /Users/alex/Programacio/SQLiteError/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+cat.alexgluque.sqliteerror.shared-merged_res-7 /Users/alex/Programacio/SQLiteError/shared/build/intermediates/merged_res/release
+cat.alexgluque.sqliteerror.shared-androidMain-8 /Users/alex/Programacio/SQLiteError/shared/src/androidMain/res
+cat.alexgluque.sqliteerror.shared-androidRelease-9 /Users/alex/Programacio/SQLiteError/shared/src/androidRelease/res
+cat.alexgluque.sqliteerror.shared-main-10 /Users/alex/Programacio/SQLiteError/shared/src/main/res
+cat.alexgluque.sqliteerror.shared-release-11 /Users/alex/Programacio/SQLiteError/shared/src/release/res

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cat.alexgluque.sqliteerror.AndroidGreetingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-19T09:16:09" hostname="MacBook-Air.local" time="0.005">
+  <properties/>
+  <testcase name="testExample" classname="cat.alexgluque.sqliteerror.AndroidGreetingTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
